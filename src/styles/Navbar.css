@@ -54,6 +54,26 @@
   text-align: center;
 }
 
+.nav-link.active {
+  position: relative;
+}
+
+.nav-link.active::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(3, 3, 141); /* Change this color to your desired color */
+  transition: width 1s ease-in-out;
+}
+
+.nav-link.active:hover::after,
+.nav-link.active:focus::after {
+  width: 100%;
+}
+
 @media only screen and (max-width: 900px) {
   .navbar a {
     width: 70px;
@@ -86,3 +106,7 @@
     flex-direction: row;
   }
 }
+
+
+
+

@@ -18,7 +18,7 @@ function Footer() {
           < GithubIcon/>
         </a>
       </div>
-      <p>Thank you 👻</p>
+      <p>Contact Me 👻</p>
     </div>
   );
 }
