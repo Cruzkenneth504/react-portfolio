@@ -8,15 +8,13 @@ function Home() {
         <h2> Hi, Im Kenneth</h2>
         <div className="prompt">
           <p>
-            I am a passionate and dedicated software developer student, eager to
-            learn and grow in the field of application development. I am
-            constantly seeking new opportunities to expand my knowledge and
-            enhance my skills. Creating innovative applications is not just a
-            career path for me; it is a source of fulfillment and excitement. I
-            am committed to staying updated with the latest technologies and
-            best practices to deliver efficient and user-friendly solutions.
-            With a strong determination and a thirst for knowledge, I am ready
-            to embark on an exciting journey of creating impactful applications.
+            I am a passionate software development student with a strong drive
+            for learning and growth. Creating innovative applications is not
+            just a career path, but a source of fulfillment and excitement for
+            me. I strive to stay updated with the latest technologies and best
+            practices to deliver efficient and user-friendly solutions. With a
+            strong determination and thirst for knowledge, I am ready to embark
+            on an exciting journey of creating impactful applications
           </p>
         </div>
       </div>
