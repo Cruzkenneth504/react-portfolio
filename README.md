@@ -47,7 +47,7 @@ You may also see any lint errors in the console.
 
 ### Home
 
- [![Home](./assets/Screenshot%202023-05-30%20at%2012.05.12%20AM.png)](https://cruzkenneth504.github.io/)
+ [![Home](./assets/Screenshot%202023-05-30%20at%2012.05.12%20AM.png)](https://cruzkenneth504.github.io/react-portfolio/)
 
 
 ## License
